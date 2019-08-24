@@ -14,4 +14,4 @@ robot -v username:[Your Github Username] -v password:[Your Github Password] [pat
 <br>
 ex : 
 <br>
-robot -v username:test password:password test/GistTest.robot
+robot -v username:test -v password:password tests/GistTest.robot
